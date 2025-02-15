@@ -16,6 +16,7 @@ I make my commits in french and in english .
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NytrixFM&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
+## Active projects :
 
 <table>
   <thead align="center">
